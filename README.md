@@ -7,6 +7,7 @@
   <style>
     body {
       background-color: #f8f8f8;
+      <img src="pic/photo.jpeg"alt+"My photo"style="mxz-width:100%; height: auto;">
       color: #333;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       display: flex;
