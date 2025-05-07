@@ -1,4 +1,38 @@
-<h1>My Gallery</h1>
-<img src="IMG_1234.jpg" alt="Gallery photo" style="max-width: 90%; border-radius: 10px; margin-top: 20px;">
-<br>
-<a href="index.html">Back to Home</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Gallery</title>
+  <style>
+    body {
+      background-color: #fce6ff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+    img {
+      max-width: 90%;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      background-color: #a64ca6;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+    }
+    a:hover {
+      background-color: #800080;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Gallery</h1>
+  <img src="IMG_3543%20me.jpg" alt="Gallery photo">
+  <br>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
