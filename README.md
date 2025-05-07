@@ -74,8 +74,3 @@
   <a href="index.html">Back to Home</a>
 </body>
 </html>
-</head>
-<body>
-  <h1>
-  <p>My website is under construction. Check back soon!</p>
-  <div 
