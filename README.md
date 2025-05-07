@@ -40,3 +40,4 @@
   <div class="footer">© 2025 Chelsea Mitchell</div>
 </body>
 </html>
+<img src="IMG_0236_VSCO.jpeg" alt="Welcome photo" style="max-width: 90%; border-radius: 10px; margin-top: 20px;">
