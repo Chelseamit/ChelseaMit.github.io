@@ -6,16 +6,32 @@
   <title>Coming Soon</title>
 <style>
     /* All your CSS styles here (including dropdown styling) */
+  .navbar {
+  background-color: #333;
+  overflow: hidden;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.navbar a:hover {
+  background-color: #575757;
+  border-radius: 5px;
+}
 </style>
 
-  <div class="dropdown">
-    <button class="dropbtn">Menu</button>
-    <div class="dropdown-content">
-      <a href="welcome.html">Welcome</a>
-      <a href="#gallery">Gallery</a>
-      <a href="#contact">Contact</a>
-    </div>
-  </div>
+  <nav class="navbar">
+  <a href="welcome.html">Welcome</a>
+  <a href="#gallery">Gallery</a>
+  <a href="#contact">Contact</a>
+</nav>
 
   <h2 id="welcome" class="welcome">Glad you're here!</h2>
 
