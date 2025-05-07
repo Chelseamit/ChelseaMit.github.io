@@ -35,7 +35,7 @@
   </style>
 </head>
 <body>
-  <h1>Coming Soon</h1>
+  <h1>
   <p>My website is under construction. Check back soon!</p>
   <div class="footer">© 2025 Chelsea Mitchell</div>
 </body>
