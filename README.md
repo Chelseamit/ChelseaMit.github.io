@@ -34,7 +34,7 @@
 </head>
 <body>
   <h1>Welcome to My Page!</h1>
-  <img src="IMG_0236_VSCO.jpeg" alt="Welcome photo">
+  <img src="IMG_3543me.jpeg" alt="Welcome photo">
   <p>This is your custom welcome page.</p>
   <a href="index.html">Back to Home</a>
 </body>
