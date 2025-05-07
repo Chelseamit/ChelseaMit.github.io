@@ -24,6 +24,9 @@
       padding: 10px 20px;
       border-radius: 5px;
     }
+    a:hover {
+      background-color: #800080;
+    }
   </style>
 </head>
 <body>
